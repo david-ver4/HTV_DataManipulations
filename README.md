@@ -24,7 +24,7 @@ This repository contains code files for data cleaning and analysis related to Ha
 
 ### 4. zeroAllocate.py
 
-- **Purpose:** Based on Wear Time threshold 10-hour limit, allocate zeros to another dataset.
+- **Purpose:** Based on Wear Time threshold 10-hour invalid limit, allocate zeros to another dataset.
 - **Usage:**
   - Use cleaned and filtered threshold weartime dataset as the base to allocate 0s to another non-weartime dataset.
 
@@ -32,7 +32,7 @@ This repository contains code files for data cleaning and analysis related to Ha
 
 ### 1. DATESHIFTERfinal.py
 
-- **Purpose:** Alter cleaned datasets to establish constant dates instead of numbered days.
+- **Purpose:** Using the earliest consent date as the reference date, this is designed to alter the cleaned data sets in a way where constant dates are established instead of numbered days for the first row and every data point aligns with its corresponding date for each participant.
 - **Usage:**
   - Use clean and filtered threshold datasets.
 
