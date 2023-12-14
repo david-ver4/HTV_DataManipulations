@@ -28,7 +28,7 @@ This repository contains code files for data cleaning and analysis related to Ha
 - **Usage:**
   - Use cleaned and filtered threshold weartime dataset as the base to allocate 0s to another non-weartime dataset.
 
-## WeekendWeekdayAligning Scripts
+## Weekday and Weekend Scripts
 
 ### 1. DATESHIFTERfinal.py
 
@@ -56,7 +56,7 @@ This repository contains code files for data cleaning and analysis related to Ha
 - **Usage:**
   - Use file generated from DATESHIFTERfinal.py script.
 
-## Data Analysis Code
+## Data Analysis Scripts
 
 ### 1. Data_Cleaning_Analysis.py
 
