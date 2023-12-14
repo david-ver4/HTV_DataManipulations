@@ -9,8 +9,8 @@ This repository contains code files for data cleaning and analysis related to Ha
 - **Purpose:** Designed to turn raw files into usable clean datasets.
 - **Usage:**
   - Use raw datasets directly exported from fitabase.
-  - In the second box, uncomment to filter and produce a new weartime file with 0s allocated to invalid datapoints.
-  - Use cleaned weartime dataset generated from normal running and file generating made using this script.
+  - In the second box, uncomment to filter and produce a new weartime file with 0s allocated to invalid datapoints. 
+    - Use cleaned weartime dataset generated from normal running and file generating made using this script.
 
 ### 2. compareConsentDates.py
 
