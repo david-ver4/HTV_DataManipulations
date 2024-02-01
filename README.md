@@ -2,6 +2,8 @@
 
 This repository contains code files for data cleaning and analysis related to Happy Teacher Study.
 
+Preliminary documentation (work in progress): https://docs.google.com/document/d/1BB6k-0zNwT7P7-6zY3-PADZHw_7UPci7GkWkgi--fG8/edit?usp=sharing
+
 ## Data Cleaning Scripts
 
 ### 1. Data_Cleaning_v03_RC(1).ipynb
